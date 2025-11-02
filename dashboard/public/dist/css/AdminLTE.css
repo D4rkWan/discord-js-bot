@@ -168,14 +168,14 @@ h6,
 }
 /* General Links */
 a {
-  color: #FFC107;
+  color: #3c8dbc;
 }
 a:hover,
 a:active,
 a:focus {
   outline: none;
   text-decoration: none;
-  color: #FFC107;
+  color: #72afd2;
 }
 /* Page Header */
 .page-header {
@@ -216,7 +216,7 @@ a:focus {
 .main-header #navbar-search-input.form-control:focus,
 .main-header #navbar-search-input.form-control:active {
   border-color: rgba(0, 0, 0, 0.1);
-  background: rgba(34, 34, 34, 0.9);
+  background: rgba(255, 255, 255, 0.9);
 }
 .main-header #navbar-search-input.form-control::-moz-placeholder {
   color: #ccc;
