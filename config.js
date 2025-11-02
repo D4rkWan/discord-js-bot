@@ -37,9 +37,9 @@ module.exports = {
 
   DASHBOARD: {
     enabled: true, // enable or disable dashboard
-    baseURL: "http://localhost:8080", // base url
-    failureURL: "http://localhost:8080", // failure redirect url
-    port: "8080", // port to run the bot on
+    baseURL: "https://starbot-c0hb.onrender.com", // base url
+    failureURL: "https://starbot-c0hb.onrender.com", // failure redirect url
+    port: "", // port to run the bot on
   },
 
   ECONOMY: {
